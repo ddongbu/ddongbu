@@ -10,8 +10,8 @@
 
  <h2 align="center"> It's Me </h2><br>
 <div align="center">
- <a href="https://www.instagram.com/t.x______x.d/" target="_blank"><img src="https://img.shields.io/badge/t.x______x.d-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
- 
+<a href="https://www.instagram.com/t.x______x.d/" target="_blank"><img src="https://img.shields.io/badge/t.x______x.d-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+<a href="https://github.com/ddongbu" target="_blank"><img src="https://img.shields.io/badge/ddongbu-181717?style=flat-square&logo=GitHUB&logoColor=white"/>
 </div>
  
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/ddongbu)](https://github.com/ddongbu)
