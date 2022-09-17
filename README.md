@@ -3,9 +3,9 @@
 ### Hi there 👋 안녕하세요 BACK-END에 관심있는 대학생 입니다.
  
 
- <h3 align="center"> available</h3>
+ ##<h3 align="center"> available</h3>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/ align="center"></a>
-
+<a href="https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/Getting_started" target="_blank"><img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
 
 
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/ddongbu)](https://github.com/ddongbu)
