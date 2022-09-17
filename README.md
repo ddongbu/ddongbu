@@ -10,7 +10,7 @@
 
  <h2 align="center"> It's Me </h2><br>
 <div align="center">
- <a href="https://www.instagram.com/t.x______x.d/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+ <a href="https://www.instagram.com/t.x______x.d/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=t&logoColor=white"/>
  
 </div>
  
