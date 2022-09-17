@@ -1,5 +1,6 @@
  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-### Hi there 👋안녕하세요 인하공전 3학년에 재학중입니다.
+
+### Hi there 👋 안녕하세요 인하공전 3학년에 재학중입니다.
  
 <h3 align="center"> 
  
