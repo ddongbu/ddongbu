@@ -4,7 +4,7 @@
  
 
  <h3 align="center"> available tech stacks </h3>
- <div >
+ <div align="center">
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/> <img alt="C" src ="https://img.shields.io/badge/Python-3766AB.svg?&style=for-the-badge&logo=C&logoColor=white"/> <img alt="C" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JAVASCRIPT&logoColor=white"/> <img alt="C" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
 </div>
 
