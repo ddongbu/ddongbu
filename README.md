@@ -9,7 +9,11 @@
 </div>
 
  <h2 align="center"> It's Me </h2><br>
-
+<div align="center">
+ <a href="https://www.instagram.com/t.x______x.d/" target="_blank"><img src="https://img.shields.io/badge/t.x______x.d-#E4405F?style=plastic&logo=로고&logoColor=E1306C"/></a>
+ 
+</div>
+ 
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/ddongbu)](https://github.com/ddongbu)
  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100019359516667)](https://www.facebook.com/profile.php?id=100019359516667) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sang214q@gmail.com)](mailto:sang214q@gmail.com)
 
