@@ -11,7 +11,7 @@
  <h2 align="center"> It's Me </h2><br>
 <div align="center">
  <a href="https://www.instagram.com/t.x______x.d/" target="_blank"><img src="https://img.shields.io/badge/Instagram-#E4405F?style=plastic&logo=Instagram&logoColor=E1306C"/></a>
- <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+ <a href="https://www.instagram.com/t.x______x.d/" target="_blank"><img src="https://img.shields.io/badge/Instagram-#E4405F?style=flat-square&logo=Swift&logoColor=white"/>
  
 </div>
  
