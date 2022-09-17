@@ -10,7 +10,8 @@
 
  <h2 align="center"> It's Me </h2><br>
 <div align="center">
- <a href="https://www.instagram.com/t.x______x.d/" target="_blank"><img src="https://img.shields.io/badge/t.x______x.d-#E4405F?style=plastic&logo=file:///C:/Users/sangm/Downloads/instagram%20(1).svg&logoColor=E1306C"/></a>
+ <a href="https://www.instagram.com/t.x______x.d/" target="_blank"><img src="https://img.shields.io/badge/t.x______x.d-#E4405F?style=plastic&logo=![instagram (2)](https://user-images.githubusercontent.com/105434827/190857471-5e027463-7f5a-476d-a028-72b71bbf7011.svg)
+&logoColor=E1306C"/></a>
  
 </div>
  
