@@ -1,6 +1,6 @@
  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20&fontSize=90)
 
-### Hi there 👋 BACK-END에 관심있는 대학생 입니다.
+
  
 
  <h3 align="center"> available tech stacks </h3>
