@@ -22,4 +22,6 @@
  <a href="https://www.facebook.com/profile.php?id=100019359516667" target="_blank"><img src="https://img.shields.io/badge/이상민-1877F2?style=flat-square&logo=FaceBook&logoColor=white"/>
  <a href="https://mail.google.com/mail/" target="_blank"><img src="https://img.shields.io/badge/sang214q-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </div>
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ddongbu&theme=default&show_icons=true)
 
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ddongbu&layout=compact)](https://github.com/usiohc/github-readme-stats)
