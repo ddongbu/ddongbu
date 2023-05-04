@@ -24,5 +24,5 @@
 </div>
   <!--![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ddongbu&theme=default&show_icons=true)-->
   
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ddongbu&layout=compact)](https://github.com/usiohc/github-readme-stats)
+
 
