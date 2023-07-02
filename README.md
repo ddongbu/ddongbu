@@ -14,7 +14,7 @@
 
 
 
- <h2> It's Me </h2><br>
+ <h1> It's Me </h1>
 <div>
 <a href="https://www.instagram.com/tkdxls/" target="_blank"><img src="https://img.shields.io/badge/t.x______x.d-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 <a href="https://github.com/ddongbu" target="_blank"><img src="https://img.shields.io/badge/ddongbu-181717?style=flat-square&logo=GitHUB&logoColor=white"/>
