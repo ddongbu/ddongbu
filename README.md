@@ -23,7 +23,7 @@
  <a href="https://mail.google.com/mail/" target="_blank"><img src="https://img.shields.io/badge/sang214q-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>  </div>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangmin5848)](https://solved.ac/sangmin5848/) <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddongbu)](https://github.com/anuraghazra/github-readme-stats)
+<--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddongbu)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 
