@@ -2,9 +2,9 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangmin5848)](https://solved.ac/sangmin5848/)
 
 
- <h3 align="center"> Available Tech Stacks </h3>
+ <h3> Available Tech Stacks </h3>
  <br>
- <div align="center">
+ <div>
  <img alt="P" src ="https://img.shields.io/badge/Python-3766AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
  <img alt="C" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/><br>
  <img alt="C" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JAVASCRIPT&logoColor=white"/>
