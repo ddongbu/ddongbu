@@ -5,8 +5,7 @@
  <h1> Available Tech Stacks </h1>
  
 <h3>🌅BackEnd</h3>
- <img alt="P" src ="https://img.shields.io/badge/Python-3766AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Javat&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-D4A934?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-379B23?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-17BF7C?style=flat-square&logo=springboot&logoColor=white"/>  <img src="https://img.shields.io/badge/Tomcat-4B290A?style=flat-square&logo=apachetomcat&logoColor=white"/>
   
 <h3>🌇FrontEnd</h3>
 <img alt="C" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JAVASCRIPT&logoColor=white"/>
