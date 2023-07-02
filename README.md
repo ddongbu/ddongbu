@@ -2,7 +2,7 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangmin5848)](https://solved.ac/sangmin5848/)
-github-readme-stats.vercel.app/api?username={ddongbu}&show_icons=true&theme=dark
+(github-readme-stats.vercel.app/api?username={ddongbu}&show_icons=true&theme=dark)
  <h3 align="center"> Available Tech Stacks </h3>
  <br>
  <div align="center">
