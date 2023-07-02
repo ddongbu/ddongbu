@@ -1,8 +1,7 @@
  <!--[header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20&fontSize=90)-->
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangmin5848)](https://solved.ac/sangmin5848/)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddongbu)](https://github.com/anuraghazra/github-readme-stats)
+
  <h3 align="center"> Available Tech Stacks </h3>
  <br>
  <div align="center">
@@ -23,7 +22,9 @@
  <a href="https://www.facebook.com/profile.php?id=100019359516667" target="_blank"><img src="https://img.shields.io/badge/이상민-1877F2?style=flat-square&logo=FaceBook&logoColor=white"/>
  <a href="https://mail.google.com/mail/" target="_blank"><img src="https://img.shields.io/badge/sang214q-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </div>
-  <!--![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ddongbu&theme=default&show_icons=true)-->
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangmin5848)](https://solved.ac/sangmin5848/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddongbu)](https://github.com/anuraghazra/github-readme-stats)
+
   
 
 
