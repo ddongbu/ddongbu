@@ -1,7 +1,7 @@
  <!--[header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20&fontSize=90)-->
 
 
-<h3 align="center" >[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangmin5848)](https://solved.ac/sangmin5848/)</h3>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangmin5848)](https://solved.ac/sangmin5848/)
 
  <h3 align="center"> available tech stacks </h3>
  
