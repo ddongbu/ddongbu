@@ -1,6 +1,8 @@
+<div align="center"> 
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangmin5848)](https://solved.ac/sangmin5848/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangmin5848)](https://solved.ac/sangmin5848/)
 
+</div> 
 
  <h1 align="center"> Available Tech Stacks </h1>
 
