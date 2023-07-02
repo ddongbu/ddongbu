@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangmin5848)](https://solved.ac/sangmin5848/)
 
- <h3 align="center"> available tech stacks </h3>
+ <h3 align="center"> Available Tech Stacks </h3>
  <br>
  <div align="center">
  <img alt="P" src ="https://img.shields.io/badge/Python-3766AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
