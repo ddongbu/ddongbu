@@ -2,8 +2,8 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangmin5848)](https://solved.ac/sangmin5848/)
 
 
- <h2> Available Tech Stacks </h2>
-🌅BackEnd
+ <h3> Available Tech Stacks </h3>
+<h1>🌅BackEnd<h1>
  <img alt="P" src ="https://img.shields.io/badge/Python-3766AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Javat&logoColor=white"/></a>
 🌇FrontEnd
