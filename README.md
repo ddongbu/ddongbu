@@ -2,11 +2,11 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangmin5848)](https://solved.ac/sangmin5848/)
 
 
- <h3> Available Tech Stacks </h3>
-<h1>🌅BackEnd<h1>
+ <h1> Available Tech Stacks </h1>
+<h3>🌅BackEnd<h3>
  <img alt="P" src ="https://img.shields.io/badge/Python-3766AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Javat&logoColor=white"/></a>
-🌇FrontEnd
+<h3>🌇FrontEnd<h3>
 <img alt="C" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JAVASCRIPT&logoColor=white"/>
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
