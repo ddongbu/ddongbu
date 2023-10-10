@@ -20,13 +20,13 @@
  <a href="https://mail.google.com/mail/" target="_blank"><img src="https://img.shields.io/badge/sang214q-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
 </div>
 <br>
-<div>
+
 ```ruby
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
-</div>
+
 <div align="center"> 
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangmin5848)](https://solved.ac/sangmin5848/)
