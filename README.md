@@ -22,6 +22,12 @@
 </div>
 <br>
 
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
 <div align="center"> 
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangmin5848)](https://solved.ac/sangmin5848/)
