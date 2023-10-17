@@ -4,8 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/ddongbu.svg?style=social&label=Follow)](https://github.com/ddongbu?tab=followers)
 
 
- -  인하공업전문대학 컴퓨터정보과 졸업(2021-03-01 ~ 2023-08-01)<br>
- -  인하공업전문대학 컴퓨터동아리 모죽활동(광진구 빅데이터 공모전 출시)<br>
+ -  컴퓨터동아리 모죽활동(광진구 빅데이터 공모전 출시)<br>
  -  ASAC(Allied SW Academy of Companies) 웹 풀스택 과정 3기 활동 (23.07 ~ )
 
 
