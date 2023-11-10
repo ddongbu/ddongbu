@@ -4,11 +4,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/ddongbu.svg?style=social&label=Follow)](https://github.com/ddongbu?tab=followers)
 
 
- -  컴퓨터동아리 모죽활동(광진구 빅데이터 공모전 출시)<br>
- -  ASAC(Allied SW Academy of Companies) 웹 풀스택 과정 3기 활동 (23.07 ~ )
+-  ASAC(Allied SW Academy of Companies) 웹 풀스택 과정 3기 활동 (23.07 ~ )
 
 
-<a href="https://www.instagram.com/tkdxls/" target="_blank"><img src="https://img.shields.io/badge/t.x______x.d-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 <a href="https://github.com/ddongbu" target="_blank"><img src="https://img.shields.io/badge/ddongbu-181717?style=flat-square&logo=GitHUB&logoColor=white"/>
 
     
