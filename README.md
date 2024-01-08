@@ -6,9 +6,6 @@
 
 -  ASAC(Allied SW Academy of Companies) 웹 풀스택 과정 3기 활동 (23.07 ~ )
 
-
-<a href="https://github.com/ddongbu" target="_blank"><img src="https://img.shields.io/badge/ddongbu-181717?style=flat-square&logo=GitHUB&logoColor=white"/>
-
     
 </div>
 
