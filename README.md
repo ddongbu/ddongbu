@@ -3,9 +3,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/ddongbu.svg?style=social&label=Follow)](https://github.com/ddongbu?tab=followers)
 
-
--  ASAC(Allied SW Academy of Companies) 웹 풀스택 과정 3기 활동 (23.07 ~ )
-
     
 </div>
 
