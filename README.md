@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔎 Danny
+# Danny
 
 > hello world
 >
